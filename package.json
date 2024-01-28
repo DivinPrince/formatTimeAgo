@@ -1,0 +1,22 @@
+{
+  "name": "format-time-ago",
+  "version": "1.0.0",
+  "description": "format time ago",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DivinPrince/formatTimeAgo.git"
+  },
+  "keywords": [
+    "time"
+  ],
+  "author": "Divin Prince",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DivinPrince/formatTimeAgo/issues"
+  },
+  "homepage": "https://github.com/DivinPrince/formatTimeAgo#readme"
+}
