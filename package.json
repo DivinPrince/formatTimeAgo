@@ -1,6 +1,6 @@
 {
   "name": "format-time-ago",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "format time ago",
   "main": "index.js",
   "scripts": {
